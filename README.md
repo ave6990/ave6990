@@ -1,6 +1,6 @@
 * Hi, I’m @ave6990
 * I’m interested in programming.
-* I’m currently learning english and js (is two most popular language at today).
+* I’m currently learning english and js (it is two most popular language at today).
 * e-mail: ave6990@ya.ru
 * site: [ave6990.ru](https://ave6990.ru)
 
